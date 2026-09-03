@@ -6,7 +6,7 @@ The application fetches real-time country data using the **REST Countries API** 
 
 ## 🚀 Live Demo
 
-🔗 **[View Country Explorer Live](https://myworldexplorer.netlify.app/)**
+🔗 **[View Country Explorer Live](https://mycountryexplorer.netlify.app/)**
 
 ## ✨ Features
 
